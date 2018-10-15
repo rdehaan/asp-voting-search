@@ -67,9 +67,12 @@ _optimize(1,1,card).
 % (the files meta*.lp are from https://potassco.org/labs/metasp/)
 
 %%% example settings:
-% - n=2, m=3, s=3 ~ 2 seconds
-% - n=2, m=3, s=4 ~ 5 seconds
-% - n=2, m=4, s=4 ~ 60 seconds
-% - n=3, m=3, s=3 ~ 6 seconds
-% - n=3, m=3, s=4 ~ 42 seconds
-% - n=3, m=3, s=5 ~ 215 seconds
+% - n=2, m=3, s=3 ~
+% - n=2, m=3, s=4 ~
+% - n=2, m=4, s=4 ~
+% - n=3, m=3, s=3 ~
+% - n=3, m=3, s=4 ~
+% - n=3, m=3, s=5 ~
+% - n=3, m=4, s=4 ~
+% - n=4, m=4, s=4 ~
+% - n=4, m=4, s=5 ~

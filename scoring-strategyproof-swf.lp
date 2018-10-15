@@ -87,12 +87,12 @@ _optimize(1,1,card).
 % (the files meta*.lp are from https://potassco.org/labs/metasp/)
 
 %%% example settings: (symmetry breaking: none / version 1 / version 2)
-% - n=2, m=3, s=3 ~ 1s / 1s / 1s
-% - n=2, m=3, s=4 ~ 3s / 2s / 2s
-% - n=2, m=4, s=4 ~ 17s / 20s / 18s
-% - n=3, m=3, s=3 ~ 1s / 1s / 1s
-% - n=3, m=3, s=4 ~ 8s / 8s / 7s
-% - n=3, m=3, s=5 ~ 63s / 52s / 53s
-% - n=3, m=4, s=4 ~ 84s / 73s / 77s
-% - n=4, m=4, s=4 ~ 256s / 233s / 260s
-% - n=4, m=4, s=5 ~ ? / 1402s / ?
+% - n=2, m=3, s=3 ~
+% - n=2, m=3, s=4 ~
+% - n=2, m=4, s=4 ~
+% - n=3, m=3, s=3 ~
+% - n=3, m=3, s=4 ~
+% - n=3, m=3, s=5 ~
+% - n=3, m=4, s=4 ~
+% - n=4, m=4, s=4 ~
+% - n=4, m=4, s=5 ~ 
